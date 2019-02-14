@@ -1,3 +1,24 @@
 [submodule "glow"]
 	path = glow
 	url = http://github.com/genekogan/glow
+[submodule "progressive_growing_of_gans"]
+	path = progressive_growing_of_gans
+	url = http://github.com/genekogan/progressive_growing_of_gans
+[submodule "stylegan"]
+	path = stylegan
+	url = http://github.com/genekogan/stylegan
+[submodule "pix2pixHD"]
+	path = pix2pixHD
+	url = http://github.com/genekogan/pix2pixHD
+[submodule "PhotoSketch"]
+	path = PhotoSketch
+	url = http://github.com/genekogan/PhotoSketch
+[submodule "fast-style-transfer"]
+	path = fast-style-transfer
+	url = http://github.com/genekogan/fast-style-transfer
+[submodule "Detectron"]
+	path = Detectron
+	url = http://github.com/genekogan/Detectron
+[submodule "ESRGAN"]
+	path = ESRGAN
+	url = https://github.com/agermanidis/ESRGAN
